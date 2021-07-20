@@ -1,0 +1,18 @@
+/* header section  */
+
+.info-background{
+    background-color: #fceae8;
+}
+/* categories section  */
+.categories img{
+    width: 100px;
+}
+
+.buy-now-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border: none;
+    padding: 9px 25px;
+    border-radius: 5px;
+    background-color: #ff3f8b;
+}
